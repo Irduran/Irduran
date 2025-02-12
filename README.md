@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iris</h1>
 <h3 align="center">I am an advanced Computer Engineering student with a strong passion for frontend development and creating user-friendly, intuitive applications.</h3>
 
-- 🌱 I’m currently learning **.Net Maui, C#**
+- 🌱 I’m currently learning **Javascript and QA**
 
 - 📫 How to reach me **iris.bedu@outlook.com**
 
